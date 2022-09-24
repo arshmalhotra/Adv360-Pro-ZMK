@@ -1,5 +1,5 @@
 macro_win_sleep: macro_win_sleep{
-wait-ms=<500>
+wait-ms=<500>;
 compatible = "zmk,behavior-macro";
 label = "macro_win_sleep";
 #binding-cells = <0>;
