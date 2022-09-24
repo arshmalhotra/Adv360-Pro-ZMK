@@ -17,11 +17,11 @@
            "&none",       "&kp Z",    "&kp X",    "&kp C",    "&kp V",    "&kp B",                "&none",    "&none",  "&kp HOME",     "&none",     "&none", "&kp PG_UP",    "&none",    "&none",    "&kp N",       "&kp M", "&kp COMMA", "&kp DOT",         "&kp FSLH",       "&none",
        "&kp LCTRL", "&kp LC(TAB)", "&kp LALT", "&kp LGUI", "&kp SEMI", "&kp BSPC",           "&sk LSHIFT",  "&kp END", "&kp PG_DN", "&kp ENTER", "&kp SPACE", "&kp MINUS", "&kp RGUI", "&kp LBKT", "&kp RBKT", "&kp C_SLEEP"
     ], [
-         "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans",           "&macro_win_sleep", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",
-         "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",
-         "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans",    "&trans", "&trans", "&trans",        "&trans", "&trans", "&trans", "&trans", "&trans",
-         "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",  "&none",  "&none", "&trans",    "&trans", "&trans", "&trans",        "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&kp LGUI", "&trans", "&trans", "&kp LCTRL", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp RCTRL", "&trans", "&trans", "&macro_quotes"
+         "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans",           "&macro_win_sleep_2", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",
+         "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans",                       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",
+         "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans",                       "&trans", "&trans", "&trans",                     "&trans",    "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans",
+         "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans",                       "&trans", "&trans", "&trans",  "&none",  "&none", "&trans",    "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&kp LGUI", "&trans", "&trans", "&kp LCTRL", "&trans", "&trans",                       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp RCTRL", "&trans", "&trans", "&macro_win_sleep"
     ], [
        "&trans", "&trans",    "&trans",     "&trans",   "&trans", "&trans",           "&trans", "&trans", "&trans",    "&trans",    "&trans",  "&trans", "&trans", "&trans",
        "&trans", "&trans",    "&trans", "&kp LSHIFT",   "&trans", "&trans",           "&trans", "&trans", "&trans",  "&kp HOME",    "&kp UP", "&kp END", "&trans", "&trans",
