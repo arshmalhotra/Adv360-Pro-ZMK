@@ -1,9 +1,3 @@
-macro_win_layout: macro_win_layout{
-compatible = "zmk,behavior-macro";
-label = "macro_win_layout";
-#binding-cells = <0>;
-bindings = ;
-};
 macro_win_sleep: macro_win_sleep{
 compatible = "zmk,behavior-macro";
 label = "macro_win_sleep";
