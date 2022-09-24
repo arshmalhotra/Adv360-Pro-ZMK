@@ -51,9 +51,9 @@
             bindings = <
    &trans  &trans  &trans     &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans     &trans  &trans
    &trans  &trans  &trans     &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans     &trans  &trans
-   &trans  &trans  &trans     &trans  &trans  &trans            &trans  &trans  &trans                  &trans     &trans  &trans  &trans         &trans  &trans  &trans  &trans  &trans
-   &trans  &trans  &trans     &trans  &trans  &trans            &trans  &trans  &trans   &none   &none  &trans     &trans  &trans  &trans         &trans  &trans  &trans  &trans  &trans
- &kp LGUI  &trans  &trans  &kp LCTRL  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &kp RCTRL  &trans  &trans  &macro_quotes
+   &trans  &trans  &trans     &trans  &trans  &trans            &trans  &trans  &trans                  &trans     &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans
+   &trans  &trans  &trans     &trans  &trans  &trans            &trans  &trans  &trans   &none   &none  &trans     &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans
+ &kp LGUI  &trans  &trans  &kp LCTRL  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &kp RCTRL  &trans  &trans  &macro_win_sleep
             >;
         };
 
