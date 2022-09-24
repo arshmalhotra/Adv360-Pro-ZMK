@@ -1,8 +1,14 @@
+macro_mac_layout: macro_mac_layout{
+compatible = "zmk,behavior-macro";
+label = "macro_mac_layout";
+#binding-cells = <0>;
+bindings = <&bt BT_SEL 0>, <&none >, <&none >, <&none >, <&to 0>;
+};
 macro_win_layout: macro_win_layout{
 compatible = "zmk,behavior-macro";
 label = "macro_win_layout";
 #binding-cells = <0>;
-bindings = <&bt BT_SEL 1>, <&none >, <&none >, <&none >, <&tog 1>;
+bindings = <&bt BT_SEL 1>, <&none >, <&none >, <&none >, <&to 1>;
 };
 macro_win_sleep: macro_win_sleep{
 compatible = "zmk,behavior-macro";
